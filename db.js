@@ -17,3 +17,5 @@ async function vazio(){
 }
 
 vazio()
+
+module.exports = {vazio}
